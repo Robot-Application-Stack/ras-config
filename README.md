@@ -11,7 +11,7 @@ This repository contains the configuration files necessary to set up and customi
 
 
 ### Example YAML Configuration
-Here is an example snippet of the lab setup YAML configuration:
+Here is an example snippet of the container asset YAML configuration:
 
 ```yaml
 containers:
