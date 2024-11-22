@@ -1,0 +1,13 @@
+globalcamera_spawn:
+  name: "Intelrealsense1"
+  namespace: "/globalcamera_namepace"
+  pose:
+    position:
+      x: 3.0
+      y: 4.0
+      z: 5.0
+    orientation:
+      roll: 0.0
+      pitch: 0.0
+      yaw: 1.57
+  reference_frame: "world"
