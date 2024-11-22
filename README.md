@@ -52,5 +52,5 @@ containers:
 Feel free to open issues or pull requests if you have suggestions or improvements. Contributions are always welcome!
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License.
 
