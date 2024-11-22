@@ -40,7 +40,7 @@ containers:
     content_volume: 0
     content_color: none
     active_status: 0
-    position: ###
+    position: [1.2, 0, 0]
     landmark: test-tube rack
 
 ```
